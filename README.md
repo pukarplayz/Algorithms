@@ -44,16 +44,6 @@ algorithms/
 └── README.md
 ```
 
-Example structure:
-
-```
-arrays/
-└── reverse-array
-    ├── solution.c
-    ├── solution.cpp
-    ├── solution.py
-```
-
 Each problem may contain implementations in **multiple languages**.
 
 ---
