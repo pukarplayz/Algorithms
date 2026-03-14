@@ -21,5 +21,5 @@ int main(void){
         printf("The number isnot palindrome");
     }
     
-    
+    return 0;
 }

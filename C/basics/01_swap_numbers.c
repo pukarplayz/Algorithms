@@ -8,4 +8,5 @@ int main(void){
     y = x-y; // Subtracting.
     x = x-y;
     printf("%d, %d",x,y);
+    return 0;
 }
