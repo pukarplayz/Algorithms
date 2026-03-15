@@ -34,13 +34,6 @@ algorithms/
 ├── javascript/
 ├── go/
 │
-├── arrays/
-├── strings/
-├── math/
-├── searching/
-├── sorting/
-├── data-structures/
-│
 └── README.md
 ```
 
